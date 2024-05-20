@@ -13,23 +13,23 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
+  - Module 🖐️ used
+  - Library 🖐️ used
   - Package
   - Component
   - Framework
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code 🖐️ used
   - Microcode
-  - Software engineering
+  - Software engineering 👂 heard
   - Decomposition 🖐️ used
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) 🖐️ used
   - KISS principle
 - Syntax and concepts
   - Value 🖐️ used
@@ -44,7 +44,7 @@
   - Procedure 👂 heard
   - Method 🖐️ used
   - Class 🖐️ used
-  - Prototype 👂 heard
+  - Prototype 🖐️ used
   - Event 🖐️ used
   - Type 🖐️ used
   - Flag 🖐️ used
@@ -56,12 +56,12 @@
   - Regular expression 👂 heard
   - Interface 🖐️ used
   - Namespaces 
-  - Call stack 👂 heard
+  - Call stack 🖐️ used
   - Naming conventions 
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case 🖐️ used
+  - Snake case 🖐️ used
+  - Kebab case 🖐️ used
   - Trailing commas
   - Return early
   - Fail-fast
@@ -87,7 +87,7 @@
   - Pure function 🖐️ used
   - Lambda expression 🖐️ used
   - Side effects 👂 heard
-  - Closure 👂 heard
+  - Closure 🖐️ used
   - Partial application 👂 heard
   - Currying 👂 heard
   - Higher order 👂 heard
@@ -114,31 +114,31 @@
   - Collection 🖐️ used
   - Set 🖐️ used
   - Hash table 🖐️ used
-  - Linked list 👂 heard
+  - Linked list 🖐️ used
   - Doubly list 👂 heard
   - Unrolled list 👂 heard
   - Circular list 👂 heard
-  - Queue 👂 heard
-  - Stack 👂 heard
+  - Queue 🖐️ used
+  - Stack 🖐️ used
   - Deque 🖐️ used
-  - Tree 👂 heard
-  - Graph 👂 heard
+  - Tree 🖐️ used
+  - Graph 🖐️ used
   - Iterator 🖐️ used
   - Mutable state 👂 heard
   - Immutable state 👂 heard
   - Serialization 👂 heard
   - String parsing 🖐️ used
-  - JSON
+  - JSON 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS 🖐️ used
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 🖐️ used
+  - IPv6 🖐️ used
+  - NAT 🖐️ used
+  - URL 🖐️ used
   - URN
   - URI
 - Process and tools
@@ -148,20 +148,20 @@
   - Transpiler 👂 heard
   - Linter 👂 heard
   - Polyfill 👂 heard 
-  - Interpreter 
+  - Interpreter 🖐️ used
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime 🖐️ used
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring 🖐️ used
+  - Code review 🖐️ used
   - Exception 👂 heard
   - Unittesting 🎓 known
   - git 🖐️ used
@@ -190,10 +190,10 @@
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
-  - Pass-through parameters
+  - Too many parameters 🎓 known
+  - Pass-through parameters 
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 🖐️ used
   - VJM
   - CLR
   - Mono
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS 🖐️ used
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -229,7 +229,7 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA 🖐️ used
   - ICANN
   - ISO
   - MIME

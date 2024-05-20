@@ -13,24 +13,24 @@
   - `undefined` 🖐️ used
   - `null` 🖐️ used
   - `this` 🖐️ used
-  - `instanceof` 👂 heard
-  - `...spread` 
-  - `...rest` 👂 heard
+  - `instanceof` 🖐️ used
+  - `...spread` 👂 heard
+  - `...rest` 🖐️ used
   - `typeof` 🖐️ used
   - Destructuring 👂 heard
   - Generators 👂 heard
   - Iterators 👂 heard
   - Async generator 👂 heard
   - Async iterator 👂 heard
-  - Chaining 👂 heard
+  - Chaining 🖐️ used
   - Optional chaining 👂 heard
   - IIFE 👂 heard
   - Async IIFE
   - `global` 👂 heard
   - `globalThis` 👂 heard
   - `window` 👂 heard
-  - Getters and setters 👂 heard
-  - `__proto__` 👂 heard
+  - Getters and setters 🖐️ used
+  - `__proto__` 🖐️ used
   - `prototype` 🖐️ used
   - Equality operators 🖐️ used
   - Logical operators 🖐️ used
@@ -39,17 +39,17 @@
   - Ternary operator 🖐️ used
   - `void` 🖐️ used
   - `yield` 👂 heard
-  - `await` 👂 heard
+  - `await` 🖐️ used
   - Template literal 🖐️ used
   - Strict mode 🖐️ used
-  - Hoisting 
+  - Hoisting 👂 heard
   - `delete` 🖐️ used
   - `in` 🖐️ used
-  - `super` 👂 heard
+  - `super` 🖐️ used
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static` 👂 heard
+  - `Number.parseInt` 🖐️ used
+  - `Number.parseFloat` 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -66,18 +66,18 @@
   - `for..in` 🖐️ used
   - `for..of` 🖐️ used
   - `for await` 👂 heard
-  - `throw` 👂 heard
+  - `throw` 🖐️ used
   - `break` 🖐️ used
   - `continue` 🖐️ used
   - `import` 🖐️ used
   - `export` 🖐️ used
   - `label` 👂 heard
-  - `try..catch` 👂 heard
+  - `try..catch` 🖐️ used
   - `switch` 🖐️ used
   - `class` 🖐️ used
-  - `extends`
+  - `extends` 🖐️ used
   - `with` 👂 heard
-  - `new` 
+  - `new` 🖐️ used
 - Functions
   - Arrow function
   - Async function
@@ -85,10 +85,10 @@
   - Function expression 🖐️ used
   - Default parameters 🖐️ used
   - Functional object 🖐️ used
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - `Function.prototype.call` 🖐️ used
+  - `Function.prototype.bind` 🖐️ used
+  - `Function.prototype.apply` 🖐️ used
+  - `return` 🖐️ used
 - Data structures
   - `Array` 🖐️ used
   - `Map` 🖐️ used
@@ -102,21 +102,21 @@
   - `Proxy` 👂 heard
   - `RegExp` 👂 heard
   - `Date` 🖐️ used
-  - `Math`
+  - `Math` 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error` 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON` 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise` 🖐️ used
+  - `console` 🖐️ used
   - Timers
 - Infrastructure
-  - V8 👂 heard
+  - V8 🖐️ used
   - Node.js 👂 heard
   - npm 👂 heard
-  - prettier 👂 heard
-  - MDN 👂 heard
+  - prettier 🖐️ used
+  - MDN 🖐️ used
   - TC39
