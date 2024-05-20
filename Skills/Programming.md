@@ -1,106 +1,239 @@
 ## Programming fundamental concepts
 
+- Concepts
+  - Model
+  - Modeling
+  - Subject domain
+  - Algorithm 🖐️ used
+  - Syntax
+  - Semantics
+  - Abstraction
+  - Paradigm 👂 heard
+  - Programm
+  - Programming paradigm
+  - Programming language
+  - Contract
+  - Module
+  - Library
+  - Package
+  - Component
+  - Framework
+  - Platform
+  - Source code
+  - Object code
+  - Machine code
+  - Microcode
+  - Software engineering
+  - Decomposition 🖐️ used
+  - Control flow
+  - Data flow
+  - Code reuse
+  - Defensive programming
+  - Don't repeat yourself (DRY)
+  - KISS principle
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🖐️ used
-  - literal 🖐️ used
-  - expression 🖐️ used
-  - heap 👂 heard
-  - function 🖐️ used
-  - procedure 👂 heard
-  - method 🖐️ used
-  - class 🖐️ used
-  - prototype 👂 heard
-  - event 🖐️ used
-  - type 🖐️ used
-  - primitive types 🖐️ used
-  - reference types 🖐️ used
-  - flag 🖐️ used
-  - lexical scope 🖐️ used
-  - code block 🖐️ used
-  - conditions 🖐️ used
-  - loops 🖐️ used
-  - assignment 🖐️ used
-  - regular expression 👂 heard
-  - interface 🖐️ used
-  - contract 👂 heard
-  - module 👂 heard
-  - call stack 👂 heard
+  - Value 🖐️ used
+  - Identifier 🖐️ used
+  - Variable 🖐️ used
+  - Constant 🖐️ used
+  - Scalar 🖐️ used
+  - Literal 🖐️ used
+  - Expression 🖐️ used
+  - Heap 👂 heard
+  - Function 🖐️ used
+  - Procedure 👂 heard
+  - Method 🖐️ used
+  - Class 🖐️ used
+  - Prototype 👂 heard
+  - Event 🖐️ used
+  - Type 🖐️ used
+  - Flag 🖐️ used
+  - Lexical scope 🖐️ used
+  - Code block 🖐️ used
+  - Conditions 🖐️ used
+  - Loops 🖐️ used
+  - Assignment 🖐️ used
+  - Regular expression 👂 heard
+  - Interface 🖐️ used
+  - Namespaces 
+  - Call stack 👂 heard
+  - Naming conventions 
+  - Coding conventions
+  - Camel case
+  - Snake case
+  - Kebab case
+  - Trailing commas
+  - Return early
+  - Fail-fast
+- Types
+  - Primitive types
+  - Reference types
+  - Type systems
+  - Strong typing
+  - Weak typing
+  - Duck typing
+  - Static typing
+  - Dynamic typing
+  - Nominal typing
+  - Structural typing
+  - Explicit typing
+  - Type inference
+  - Covariance
+  - Contravariance
 - Functions
-  - signature 🖐️ used
-  - argument 🖐️ used
-  - parameter 🖐️ used
-  - pure function 🖐️ used
-  - lambda expression 🖐️ used
-  - side effects 👂 heard
-  - closure 👂 heard
-  - partial application 👂 heard
-  - curry 👂 heard
-  - higher order 👂 heard
-  - recursion 🖐️ used
-  - callback 🖐️ used
-  - listener 🖐️ used
-  - compose 👂 heard
-  - pipe 👂 heard
-  - memoize 
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - Signature 🖐️ used
+  - Argument 🖐️ used
+  - Parameter 🖐️ used
+  - Pure function 🖐️ used
+  - Lambda expression 🖐️ used
+  - Side effects 👂 heard
+  - Closure 👂 heard
+  - Partial application 👂 heard
+  - Currying 👂 heard
+  - Higher order 👂 heard
+  - Recursion 🖐️ used
+  - Tail call optimisation
+  - Callback 🖐️ used
+  - Listener 🖐️ used
+  - Composition 👂 heard
+  - Pipe 👂 heard
+  - Memoize
+  - Wrapper
+  - Functor
+  - Monad
+  - Monoid
+  - Generator
+  - Coroutine
 - Data structures
-  - array 🖐️ used
-  - structure 🖐️ used
-  - record 🖐 used
-  - enum 🖐️ used
-  - instance 🖐️ used
-  - object 🖐️ used
-  - class 🖐️ used
-  - collection 🖐️ used
-  - set 🖐️ used
-  - hash table 🖐️ used
-  - linked list 👂 heard
-  - doubly list doubly list 👂 heard
-  - unrolled list 👂 heard
-  - circular list 👂 heard
-  - queue 👂 heard
-  - stack 👂 heard
-  - deque 🖐️ used
-  - tree 👂 heard
-  - graph 👂 heard
-  - iterator 🖐️ used
-  - mutable state 👂 heard
-  - immutable state 👂 heard
-  - serialization 👂 heard
-  - string parsing 🖐️ used
-- Process & style
-  - compiler 🖐️ used
-  - transpiler 👂 heard
-  - linter 👂 heard
-  - polyfill 👂 heard
-  - debugger 🖐️ used
-  - garbage collection 👂 heard
-  - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 👂 heard
-  - paradigm 👂 heard
-  - algorithm 🖐️ used
-  - magic numbers 🖐️ used
-  - hardcode 🎓 known
-  - complexity 🎓 known
-  - decomposition 🖐️ used
-  - spaghetti 🎓 known
-  - silver bullet 👂 heard
-  - not invented here 🎓 known
-  - dead code 🎓 known
-  - unreachable code 🎓 known
-  - duplicate code 🎓 known
-  - exception 👂 heard
-  - return early 🎓 known
-  - unittest 🎓 known
+  - Array 🖐️ used
+  - Structure 🖐️ used
+  - Record 🖐️ used
+  - Enum 🖐️ used
+  - Instance 🖐️ used
+  - Object 🖐️ used
+  - Collection 🖐️ used
+  - Set 🖐️ used
+  - Hash table 🖐️ used
+  - Linked list 👂 heard
+  - Doubly list 👂 heard
+  - Unrolled list 👂 heard
+  - Circular list 👂 heard
+  - Queue 👂 heard
+  - Stack 👂 heard
+  - Deque 🖐️ used
+  - Tree 👂 heard
+  - Graph 👂 heard
+  - Iterator 🖐️ used
+  - Mutable state 👂 heard
+  - Immutable state 👂 heard
+  - Serialization 👂 heard
+  - String parsing 🖐️ used
+  - JSON
+  - JSON5
+  - YAML
+- Networking
+  - DNS
+  - CDN
+  - CORS
+  - IPv4
+  - IPv6
+  - NAT
+  - URL
+  - URN
+  - URI
+- Process and tools
+  - Compiler 🖐️ used
+  - Just-in-time compilation
+  - Ahead-of-time compilation
+  - Transpiler 👂 heard
+  - Linter 👂 heard
+  - Polyfill 👂 heard 
+  - Interpreter 
+  - Linker
+  - Dynamic linking
+  - Static linking
+  - Runtime
+  - Virtual machine
+  - Register-based VM
+  - Stack-based VM
+  - Containerization
+  - Debugger
+  - Tracing
+  - Garbage collection
+  - Refactoring
+  - Code review
+  - Exception 👂 heard
+  - Unittesting 🎓 known
   - git 🖐️ used
-  - github 🖐️ used
+  - Github 🖐️ used
+  - Docker
+  - Kubernetes
+  - GCC
+  - LLVM
+- Antipatterns 👂 heard
+  - Magic numbers 🖐️ used
+  - Hard code 🎓 known
+  - Soft code
+  - Cryptic code
+  - Improbability factor
+  - Accidental complexity
+  - Action at a distance
+  - Spaghetti 🎓 known
+  - Silver bullet 👂 heard
+  - Not invented here 🎓 known
+  - Dead code 🎓 known
+  - Unreachable code 🎓 known
+  - Duplicate code 🎓 known
+  - Premature optimization
+  - Micro-optimization
+  - Nested loops
+  - Long method/function/procedure
+  - Long inheritance
+  - Large class/file
+  - Too many parameters
+  - Pass-through parameters
+  - Accumulate and fire
+  - Use switch/case
+  - Temporary field
+  - Handle object as instances and hashes at the same time
+  - Use fields instead of arguments
+  - Data clump
+  - Feature envy
+  - Monkey patch
+  - Yo-yo problem
+- Runtimes and virtual machines
+  - Bytecode
+  - V8
+  - VJM
+  - CLR
+  - Mono
+- Operating systems
+  - Interrupts
+  - Drivers
+  - Kernel
+  - Ring
+  - Virtual memory
+  - File system
+  - Linux
+  - Unix
+  - BSD
+  - MacOS
+  - Windows
+  - Real-time OS
+  - Embedded OS
+- Standards
+  - ASCII
+  - Escape sequence
+  - RFC
+  - IETF
+  - IANA
+  - IEEE
+  - Base64
+  - ECMA
+  - ICANN
+  - ISO
+  - MIME
+  - OWASP
+  - UTF-8
+  - W3C
+  - ODMG
