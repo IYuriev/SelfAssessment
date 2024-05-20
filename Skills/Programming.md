@@ -13,7 +13,7 @@
   - procedure 👂 heard
   - method 🖐️ used
   - class 🖐️ used
-  - prototype 👂 heard
+  - prototype 🖐️ used
   - event 🖐️ used
   - type 🖐️ used
   - primitive types 🖐️ used
@@ -27,8 +27,8 @@
   - regular expression 👂 heard
   - interface 🖐️ used
   - contract 👂 heard
-  - module 👂 heard
-  - call stack 👂 heard
+  - module 🖐️ used
+  - call stack 🖐️ used
 - Functions
   - signature 🖐️ used
   - argument 🖐️ used
@@ -36,7 +36,7 @@
   - pure function 🖐️ used
   - lambda expression 🖐️ used
   - side effects 👂 heard
-  - closure 👂 heard
+  - closure 🖐️ used
   - partial application 👂 heard
   - curry 👂 heard
   - higher order 👂 heard
@@ -63,15 +63,15 @@
   - collection 🖐️ used
   - set 🖐️ used
   - hash table 🖐️ used
-  - linked list 👂 heard
+  - linked list 🖐️ used
   - doubly list doubly list 👂 heard
   - unrolled list 👂 heard
   - circular list 👂 heard
-  - queue 👂 heard
-  - stack 👂 heard
+  - queue 🖐️ used
+  - stack 🖐️ used
   - deque 🖐️ used
-  - tree 👂 heard
-  - graph 👂 heard
+  - tree 🖐️ used
+  - graph 🖐️ used
   - iterator 🖐️ used
   - mutable state 👂 heard
   - immutable state 👂 heard
@@ -79,14 +79,14 @@
   - string parsing 🖐️ used
 - Process & style
   - compiler 🖐️ used
-  - transpiler 👂 heard
-  - linter 👂 heard
+  - transpiler 🖐️ used
+  - linter 🖐️ used
   - polyfill 👂 heard
   - debugger 🖐️ used
-  - garbage collection 👂 heard
+  - garbage collection 🖐️ used
   - refactoring 🖐️ used
   - code review 🖐️ used
-  - antipatterns 👂 heard
+  - antipatterns 🖐️ used
   - paradigm 👂 heard
   - algorithm 🖐️ used
   - magic numbers 🖐️ used

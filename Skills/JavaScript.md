@@ -8,9 +8,9 @@
   - call 🖐️ used
   - bind 🖐️ used
   - apply 🖐️ used
-  - instanceof 👂 heard
-  - ...spread 🖐️ used
-  - ...rest 👂 heard
+  - instanceof 🖐️ used
+  - ...spread 👂 heard
+  - ...rest 🖐️ used
   - typeof 🖐️ used
   - destructuring 👂 heard
   - generator 👂 heard
@@ -23,8 +23,8 @@
   - global 👂 heard
   - globalThis 👂 heard
   - window 👂 heard
-  - getters and setters 👂 heard
-  - proto 👂 heard
+  - getters and setters 🖐️ used
+  - proto 🖐️ used
   - prototype 🖐️ used
   - equality operators 🖐️ used
   - logical operators 🖐️ used
@@ -32,13 +32,13 @@
   - ternary operator 🖐️ used
   - void 🖐️ used
   - yield 👂 heard
-  - await 👂 heard
+  - await 🖐️ used
   - template literal 🖐️ used
   - strict mode 🖐️ used
   - delete 🖐️ used
   - in 🖐️ used
-  - super 👂 heard
-  - Symbol 👂 heard
+  - super 🖐️ used
+  - Symbol 🖐️ used
   - Reflect 🖐️ used
 - Statements
   - if 🖐️ used
@@ -48,16 +48,16 @@
   - for..in 🖐️ used
   - for..of 🖐️ used
   - for await 👂 heard
-  - throw 👂 heard
+  - throw 🖐️ used
   - break 🖐️ used
   - continue 🖐️ used
   - import 🖐️ used
   - export 🖐️ used
   - label 👂 heard
-  - try..catch 👂 heard
+  - try..catch 🖐️ used
   - switch 🖐️ used
   - class 🖐️ used
-  - new Error 👂 heard
+  - new Error 🖐️ used
   - with 👂 heard
 - Functions
   - function declaration 🖐️ used
@@ -68,7 +68,7 @@
 - Data structures
   - Array 🖐️ used
   - mixin 👂 heard
-  - extend 👂 heard
+  - extend 🖐️ used
   - typed arrays 🖐️ used
   - Map 🖐️ used
   - Set 🖐️ used
@@ -80,10 +80,10 @@
   - EventEmitter 👂 heard
   - RegExp 👂 heard
   - Date 🖐️ used
-  - BigInt 👂 heard
+  - BigInt 🖐️ used
 - Infrastructure
-  - V8 👂 heard
+  - V8 🖐️ used
   - Node.js 👂 heard
   - npm 👂 heard
-  - prettier 👂 heard
-  - MDN 👂 heard
+  - prettier 🖐️ used
+  - MDN 🖐️ used
